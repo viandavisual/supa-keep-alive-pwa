@@ -1,0 +1,25 @@
+{
+  "generatedAt": null,
+  "projects": [
+    {
+      "id": "disturbing",
+      "name": "Disturbing Stories App",
+      "accountLabel": "SUPABASE · CUENTA A",
+      "status": "unknown",
+      "lastCheck": null,
+      "httpStatus": null,
+      "message": "Pendiente de primer check",
+      "history": []
+    },
+    {
+      "id": "banda",
+      "name": "Banda de la Cala App",
+      "accountLabel": "SUPABASE · CUENTA B",
+      "status": "unknown",
+      "lastCheck": null,
+      "httpStatus": null,
+      "message": "Pendiente de primer check",
+      "history": []
+    }
+  ]
+}
