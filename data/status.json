@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-07T07:16:26.461Z",
+  "generatedAt": "2026-10-08T07:17:33.738Z",
   "projects": [
     {
       "id": "disturbing",
       "name": "Disturbing Stories App",
       "accountLabel": "SUPABASE · CUENTA A",
       "status": "ok",
-      "lastCheck": "2026-10-07T07:16:26.461Z",
+      "lastCheck": "2026-10-08T07:17:33.738Z",
       "httpStatus": 200,
       "message": "OK",
       "history": [
         {
-          "date": "2026-10-07",
+          "date": "2026-10-08",
           "status": "ok"
         }
       ]
@@ -21,12 +21,12 @@
       "name": "Banda de la Cala App",
       "accountLabel": "SUPABASE · CUENTA B",
       "status": "ok",
-      "lastCheck": "2026-10-07T07:16:26.461Z",
+      "lastCheck": "2026-10-08T07:17:33.738Z",
       "httpStatus": 200,
       "message": "OK",
       "history": [
         {
-          "date": "2026-10-07",
+          "date": "2026-10-08",
           "status": "ok"
         }
       ]
