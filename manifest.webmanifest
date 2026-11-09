@@ -1,9 +1,9 @@
 {
-  "id": "./",
+  "id": "./supa-keep-alive-pwa",
   "name": "SUPA KEEP ALIVE",
   "short_name": "SUPA",
   "description": "Panel PWA para supervisar health checks automáticos de proyectos Supabase.",
-  "start_url": "./",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#030806",

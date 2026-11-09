@@ -1,35 +1,25 @@
 {
-  "generatedAt": "2026-11-08T14:52:06.526Z",
+  "generatedAt": null,
   "projects": [
     {
       "id": "disturbing",
       "name": "Disturbing Stories App",
       "accountLabel": "SUPABASE · CUENTA A",
-      "status": "ok",
-      "lastCheck": "2026-11-08T14:52:06.526Z",
-      "httpStatus": 200,
-      "message": "OK",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "status": "ok"
-        }
-      ]
+      "status": "unknown",
+      "lastCheck": null,
+      "httpStatus": null,
+      "message": "Pendiente de primer check",
+      "history": []
     },
     {
       "id": "banda",
       "name": "Banda de la Cala App",
       "accountLabel": "SUPABASE · CUENTA B",
-      "status": "ok",
-      "lastCheck": "2026-11-08T14:52:06.526Z",
-      "httpStatus": 200,
-      "message": "OK",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "status": "ok"
-        }
-      ]
+      "status": "unknown",
+      "lastCheck": null,
+      "httpStatus": null,
+      "message": "Pendiente de primer check",
+      "history": []
     }
   ]
 }
